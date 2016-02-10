@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40303ucmf_5_0004.png"; bbox 0 0 2429 3472; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 386 501 1161 756">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 36 447 1161 790">
+     <span class='ocr_line' id='line_1_1' title="bbox 386 501 1161 756; baseline -0.01 -48.422"><span class='ocrx_word' id='word_1_1' title='bbox 386 501 1042 756; x_wconf 78' lang='lat' dir='ltr'><strong>university</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1088 549 1161 700; x_wconf 94' lang='lat' dir='ltr'>o</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 806 781 1187 984">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 806 781 1187 984">
+     <span class='ocr_line' id='line_1_2' title="bbox 806 781 1187 984; baseline -0.016 -1"><span class='ocrx_word' id='word_1_3' title='bbox 806 781 1187 984; x_wconf 79' lang='lat' dir='ltr'>Librar</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 711 1159 1179 1344">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 711 1159 1179 1344">
+     <span class='ocr_line' id='line_1_3' title="bbox 711 1159 1179 1344; baseline 0.026 -51"><span class='ocrx_word' id='word_1_4' title='bbox 711 1289 713 1293; x_wconf 79' lang='grc'>,</span> <span class='ocrx_word' id='word_1_5' title='bbox 745 1159 1179 1344; x_wconf 79' lang='lat' dir='ltr'>February</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 261 1607 1215 1982">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 261 1607 1215 1982">
+     <span class='ocr_line' id='line_1_4' title="bbox 261 1607 1215 1784; baseline -0.013 -17"><span class='ocrx_word' id='word_1_6' title='bbox 261 1781 262 1784; x_wconf 5' lang='grc' dir='ltr'><em>Ὗ</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 728 1607 1215 1767; x_wconf 80' lang='lat' dir='ltr'><strong>Microfilm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 508 1820 1215 1982; baseline -0.023 1"><span class='ocrx_word' id='word_1_8' title='bbox 508 1820 1123 1982; x_wconf 80' lang='lat' dir='ltr'>Preservation</span> <span class='ocrx_word' id='word_1_9' title='bbox 1179 1835 1215 1911; x_wconf 68' lang='lat'>&#39;⁴</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1220 3472">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1220 3472">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1220 3472; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1220 3472; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
